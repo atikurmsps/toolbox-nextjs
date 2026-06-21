@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# personal sample image (real GPS/EXIF)
+IMG_9959.HEIC
+*.HEIC
